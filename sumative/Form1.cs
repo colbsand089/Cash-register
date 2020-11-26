@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Colbey Sands November 26 2020
+// Example of basic cash register.
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,7 +15,7 @@ namespace sumative
 {
     public partial class Trash : Form
     {
-        // November 26, 2020
+        
         double taxRate = 0.13;
         double coffeeCost = 1.45;
         double donutCost = 3.65;
